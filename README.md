@@ -31,29 +31,6 @@ Upload your own PDFs to unlock all these features! With Academic AI Suite, you�
 ## 📺 Demo Video
 - [Google Drive Folder](https://drive.google.com/drive/folders/1dGYyOKPZSTcMYLHpUr57heVoE06tp20B?usp=drive_link) for additional files and resources.
 
-
-Clone this repo:
-
-```bash
-git clone https://github.com/your-username/academic-ai-suite.git  # Use the GitHub link above to access the repository.
-cd academic-ai-suite
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the app:
-
-```bash
-python manage.py runserver
-```
-
-Open your browser and go to [http://localhost:8000](http://localhost:8000) to start exploring!
-
-
 ## 🤝 Contributing
 Got ideas to make Academic AI Suite even better? We’d love to hear from you! Feel free to open issues, submit pull requests, or suggest features. Let’s build a better learning tool together!
 
